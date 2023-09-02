@@ -1,5 +1,5 @@
 # Descrição
-Baixar e Ccmbinar conteúdo de arquivos fa.gz em um único arquivo .txt.
+Baixar e Combinar o conteúdo de arquivos fa.gz em um único arquivo .txt.
 # Passo a passo
 1. Baixe o arquivo "chr_concat.sh" diretamente ou clone o repositório:
    
@@ -17,4 +17,4 @@ Baixar e Ccmbinar conteúdo de arquivos fa.gz em um único arquivo .txt.
 
    `$ sh chr_concat.sh`
 
-5. Os arquivos refrentes aos 22 cromossos autossomicos serão baixados e seu conteúdo concatenado no arquivo "ChrConcat.txt".
+5. Os arquivos referentes aos 22 cromossomos autossômicos serão baixados e seu conteúdo concatenado no arquivo "ChrConcat.txt".
