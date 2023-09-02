@@ -1,7 +1,7 @@
 # Descrição
 Baixar e Combinar o conteúdo de arquivos fa.gz em um único arquivo .txt.
 # Passo a passo
-1. Baixe o arquivo "chr_concat.sh" diretamente ou clone o repositório:
+1. Baixe o arquivo ["chr_concat.sh"](https://github.com/Emilyaneoliveiras/chr-concat/blob/main/chr_concat.sh) diretamente ou clone o repositório:
    
     `$ git clone https://github.com/Emilyaneoliveiras/chr-concat.git`
 
